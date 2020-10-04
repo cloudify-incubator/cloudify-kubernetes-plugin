@@ -10,4 +10,4 @@ git+https://github.com/cloudify-cosmo/cloudify-common@master#egg=cloudify-common
 
 # For integration tests
 git+https://github.com/cloudify-cosmo/cloudify-cli@master#egg=cloudify-cli==master
-pyyaml==3.12
+pyyaml==5.1
